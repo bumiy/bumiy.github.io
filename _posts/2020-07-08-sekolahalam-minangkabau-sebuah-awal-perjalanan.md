@@ -4,7 +4,7 @@ title: Sekolahalam Minangkabau, sebuah awal perjalanan.
 author: admin
 categories:
 - SAM
-image: "/uploads/sam.jpg"
+image: assets/images/sam.jpg
 tags: []
 
 ---
