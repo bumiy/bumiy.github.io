@@ -99,8 +99,6 @@ Belajar dari pengalaman marketing, yang setelah mengeluarkan dana yang tidak sed
 
 Yah, inilah aku dan hidupku. Mungkin sekolah ini hanya berawal dari sebuah mimpiku, tapi aku pun tak mau egois. Mimpi ini telah menjadi mimpi sekawanan anak-anak muda yang bermaksud untuk menunjukkan kepada semuanya bahwa kita bisa melakukan sesuatu yang sangat berguna untuk negeri ini…
 
-![](/uploads/sam.jpg)
-
 **_Teruntuk teman-teman SAM, baik fasilitator, simpatisan, orang tua siswa dan tentunya siswa SAM…  
- Echo Homestay, 8 Juni 2010 dini hari dan  
- Kamar & Toilet pribadi, 12 Juni 2010 dini hari juga.._**
+Echo Homestay, 8 Juni 2010 dini hari dan  
+Kamar & Toilet pribadi, 12 Juni 2010 dini hari juga.._**
