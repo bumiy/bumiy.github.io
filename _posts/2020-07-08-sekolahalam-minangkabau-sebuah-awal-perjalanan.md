@@ -5,7 +5,8 @@ author: admin
 categories:
 - SAM
 image: assets/images/sam.jpg
-tags: []
+tags:
+- sticky
 
 ---
 Hening. Malam yang sedang kulalui di Echo Homestay, Harau, dengan kesulitanku untuk tidur. Padahal esok aku sudah berjanji dengan Ibu Yosi untuk mengunjungi sekolah yang sedang dipimpinnya. Malam ini yang ada hanyalah lolongan anjing di luar sana, lengkap dengan gemanya yang tujuh tingkat, seperti ayam kokok tujuah lenggek. Oh My God!! What a spooky night.
